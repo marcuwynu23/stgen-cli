@@ -1,5 +1,5 @@
 # stgen-cli
-a commandline tool or a program use to generate static html file with
+a commandline tool for generate static html file 
 
 ## How to generate html file
 ```python stgen-cli.py index.html```
