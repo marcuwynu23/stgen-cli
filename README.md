@@ -1,7 +1,7 @@
 # stgen-cli
-a commandline tool for generate static html file 
+a commandline tool for generate static html file
 
-## How to generate html file
+## How to generate HTML file
 ```python stgen-cli.py index.html```
 ## Prerequisite
 	- PyYAML
