@@ -1,0 +1,11 @@
+# title of the page
+title: "Page 1"
+# template folder
+template_dir: "templates"
+# for dependencies
+dependencies:
+  scripts: []
+  styles: []
+  # you can add here script or link tags
+  html: ''
+

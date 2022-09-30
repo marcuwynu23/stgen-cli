@@ -1,0 +1,11 @@
+# this file is for page layout
+layout:
+  header:
+    include: [
+      "header/header.html",
+      "header/sidebar.html"
+    ]
+  main:
+    include: []
+  footer:
+    include: []
