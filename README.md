@@ -24,7 +24,7 @@ a commandline tool for generate static html file
      * content.html
    * footer
      * footer.html
- * compiled
+ * compiled - contains the compiled and generated index.html output 
    * index.html
 
 ## Contributing
