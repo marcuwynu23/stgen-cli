@@ -1,1 +1,20 @@
 /build
+# ignore all .exe file
+*.exe
+# ignore dist directory and its subfolders and files
+dist/
+# ignore all .pyc files
+*.pyc
+# ignore all .pyo files
+*.pyo
+# ignore all spec files
+*.spec
+# ignore all .log files
+*.log
+# ignore all .swp files
+*.swp
+# ignore all .swo files
+
+# ignore all .pyd files
+
+

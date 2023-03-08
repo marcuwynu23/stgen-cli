@@ -2,10 +2,11 @@
 layout:
   header:
     include: [
-      "header/header.html",
-      "header/sidebar.html"
+      "header.html",
+      "sidebar.html"
     ]
   main:
     include: []
   footer:
-    include: []
+    include: [
+    ]
