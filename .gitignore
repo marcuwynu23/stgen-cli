@@ -17,4 +17,5 @@ dist/
 
 # ignore all .pyd files
 
+__pycache__
 
